@@ -1,6 +1,7 @@
-# flutter_app
+# flutter_demo_app
 
 A new Flutter application.
+<img src = "https://github.com/saadabdeen/fluuter_demo_app/blob/master/Flutter_Demo%20Page.jpg">
 
 ## Getting Started
 
